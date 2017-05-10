@@ -1,3 +1,3 @@
-[[https://github.com/ultramegaphil/TORo/blob/master/assets/logo.png|alt=logo]]
+![Toro Logo](/assets/logo.png?raw=true "Logo")
 
 Code repo for my TORo robot platform.
